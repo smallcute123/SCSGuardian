@@ -1,0 +1,3 @@
+[submodule "Spectre-Attacks"]
+	path = Spectre-Attacks
+	url = git@github.com:smallcute123/Spectre-Attacks.git
