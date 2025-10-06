@@ -13,3 +13,7 @@ This repository provides the RISC-V implementation of SCSGuardian: A Practical H
 ## System Configuration:
 - **Board OS**: Debian-based Linux kernel v5.16.14
   - The board runs a Debian-based Linux kernel for system operation.
+
+## Major changes in the SonicBOOM.
+
+We made major changes in `src/main/scala/exu` and `src/main/scala/lsu`, `git grep -il scsguardian` should reveal most/all of the files we changed.
